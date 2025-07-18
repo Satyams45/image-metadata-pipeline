@@ -19,7 +19,7 @@ This project demonstrates a complete serverless pipeline using **Azure Durable F
 ## 🗂️ Folder Structure
 
 ```
-durable-image-metadata-pipeline/
+image-metadata-pipeline/
 ├── BlobTrigger/             # Blob Trigger Function
 │   ├── __init__.py
 │   └── function.json
